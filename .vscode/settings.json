@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.toml": "toml",
+        "*.vue": "vue",
+        "*.html": "html",
+        "xtp_define.h": "c"
+    }
+}

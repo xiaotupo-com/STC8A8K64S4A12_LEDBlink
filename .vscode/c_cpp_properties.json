@@ -1,0 +1,41 @@
+{
+    "configurations": [
+        {
+            "name": "ledblink",
+            "includePath": [
+                "e:\\Embedded\\stc\\projects\\ledblink\\inc",
+                "e:\\Embedded\\stc\\projects\\ledblink\\stc",
+                "e:\\Embedded\\stc\\projects\\ledblink\\middleware",
+                "C:\\Keil_v5\\C51\\INC",
+                "e:\\Embedded\\stc\\projects\\ledblink",
+                "e:\\Embedded\\stc\\projects\\ledblink\\src"
+            ],
+            "defines": [
+                "__C51__",
+                "__VSCODE_C51__",
+                "reentrant=",
+                "compact=",
+                "small=",
+                "large=",
+                "data=",
+                "idata=",
+                "pdata=",
+                "bdata=",
+                "xdata=",
+                "code=",
+                "bit=char",
+                "sbit=char",
+                "sfr=char",
+                "sfr16=int",
+                "sfr32=int",
+                "interrupt=",
+                "using=",
+                "_at_=",
+                "_priority_=",
+                "_task_="
+            ],
+            "intelliSenseMode": "${default}"
+        }
+    ],
+    "version": 4
+}
